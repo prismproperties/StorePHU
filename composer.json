@@ -19,7 +19,7 @@
         "drupal-composer/drupal-scaffold": "^2.2",
         "drupal/bootstrap_business": "^1.0@beta",
         "drupal/console": "~1.0",
-        "drupal/core": "~8.0",
+        "drupal/core": "~8.4.0",
         "drush/drush": "~8.1.14",
         "sitback/presto": "dev-8.x-1.x",
         "webflo/drupal-finder": "^0.3.0",
