@@ -1,0 +1,7 @@
+app:
+  build: .
+  dockerfile: Dockerfile
+  environment:
+     - DNSDOCK_ALIAS=presto.docker
+  volumes:
+    - ./:/var/www
